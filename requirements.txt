@@ -1,4 +1,5 @@
 fastapi[standard]
 sqlalchemy
-pymysql
+aiomysql
 uvicorn[standard]
+passlib[bcrypt]
